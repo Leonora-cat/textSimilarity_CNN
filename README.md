@@ -7,9 +7,9 @@ python: 3.7<br>
 dataset: from baidu AIstudio
 
 ### Project
-This project builds a CNN to solve sentence similarity problems
-On train set, pearson correlation coefficient reached approximately 0.8
-However, on test/dev set, pearson only reached 0.35
+This project builds a CNN to solve sentence similarity problems.<br>
+On train set, pearson correlation coefficient reached approximately 0.8.<br>
+However, on test/dev set, pearson only reached 0.35.
 
 
 ### Acknowledgement
